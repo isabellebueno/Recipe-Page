@@ -7,12 +7,52 @@ body {
 
 }
 
+.textointro {
+    padding-bottom: 20px;
+}
+
 img {
     max-width: 100%;
+    border-radius: 10px;
 }
 
 .container {
     background: hsl(0, 0%, 100%);
-    width: 600px;
+    width: 700px;
+    padding: 30px;
+    border-radius: 20px;
+}
 
+
+
+.lista1{
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+    margin-right: 20px;
+    line-height: 30px;
+    
+
+}
+
+span {
+    display: block;
+    color: black;
+    font-weight: 400;
+    margin-left: 20px;
+    
+
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+.preparacao {
+    padding: 30px;
+    background: hsl(330, 100%, 98%);
+    border-radius: 10px;
+}
+
+h2 {
+color: hsl(14, 45%, 36%);
 }
